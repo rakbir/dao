@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/brian/Licence/java/DAO/src/dao/flex/querying/ColumnField.java</file>
+            <file>file:/D:/brian/Licence/java/DAO/src/utils/Reflexive.java</file>
+            <file>file:/D:/brian/Licence/java/DAO/src/dao/flex/querying/Table.java</file>
+            <file>file:/D:/brian/Licence/java/DAO/src/dao/basedao/BaseDao.java</file>
+            <file>file:/D:/brian/Licence/java/DAO/src/dao/utils/BddUtil.java</file>
+            <file>file:/D:/brian/Licence/java/DAO/src/dao/daoHibernate/DaoHibernate.java</file>
+            <file>file:/D:/brian/Licence/java/DAO/src/Main.java</file>
+            <file>file:/D:/brian/Licence/java/DAO/src/dao/connector/DbConnector.java</file>
+            <file>file:/D:/brian/Licence/java/DAO/src/DbProperties.properties</file>
+            <file>file:/D:/brian/Licence/java/DAO/src/dao/conv/querying/Table.java</file>
+            <file>file:/D:/brian/Licence/java/DAO/src/hibernate.cfg.xml</file>
+            <file>file:/D:/brian/Licence/java/DAO/src/entites/But.java</file>
+            <file>file:/D:/brian/Licence/java/DAO/src/entites/modele/BaseModele.java</file>
+            <file>file:/D:/brian/Licence/java/DAO/src/entites/Personne.java</file>
+            <file>file:/D:/brian/Licence/java/DAO/src/dao/querying/Ordering.java</file>
+            <file>file:/D:/brian/Licence/java/DAO/src/dao/conv/DaoGeneric.java</file>
+            <file>file:/D:/brian/Licence/java/DAO/src/dao/flex/FlexibleDaoGeneric.java</file>
+            <file>file:/D:/brian/Licence/java/DAO/src/entites/Equipe.java</file>
+        </group>
+    </open-files>
+</project-private>
